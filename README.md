@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/linyuchengblog/linyuchengblog.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linyuchengblog/linyuchengblog.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Welcome to Lin Yucheng's blog
+#2013/5/2
+![DSC00244](https://user-images.githubusercontent.com/100337867/155483128-fbe65bee-d195-435b-b347-71c5d8d09609.JPG)
+![DSC00246](https://user-images.githubusercontent.com/100337867/155483146-2abbbe7b-a5e7-482c-a00f-b6c32b0c81e5.JPG)
+![DSC00257](https://user-images.githubusercontent.com/100337867/155483152-1f49b5eb-cac1-4fa3-806f-48196c381b88.JPG)
+![DSC00282](https://user-images.githubusercontent.com/100337867/155483157-016a076f-e001-48bb-aee4-8587d373824e.JPG)
+![DSC00361](https://user-images.githubusercontent.com/100337867/155483169-e5bda3f2-2adf-4f3c-95f5-e2c5cd666c04.JPG)
+![DSC00366](https://user-images.githubusercontent.com/100337867/155483172-1299836c-49b2-43db-98aa-8606594e0b13.JPG)
+![DSC00372](https://user-images.githubusercontent.com/100337867/155483176-475c3d10-46bd-454d-8e3b-bf121affd4c4.JPG)
+![DSC00378](https://user-images.githubusercontent.com/100337867/155483186-e5643e2a-d7e4-49df-b874-0e56de8d6fa7.JPG)
+![DSC00382](https://user-images.githubusercontent.com/100337867/155483191-60434435-fbb4-4213-89a0-cf2b457c9b97.JPG)
+![DSC00395](https://user-images.githubusercontent.com/100337867/155483193-bdd688c8-e979-41dd-9e6a-335e20462dbc.JPG)
+![DSC00457](https://user-images.githubusercontent.com/100337867/155483198-51b41e91-4821-426e-acbd-6933cd4a36f7.JPG)
+![DSC00468](https://user-images.githubusercontent.com/100337867/155483202-3f20bfd7-a103-4bac-8996-db518f9e1fa1.JPG)
+![DSC00469](https://user-images.githubusercontent.com/100337867/155483209-dffd081a-e69a-4670-bedb-3a324bc94397.JPG)
+![DSC00472](https://user-images.githubusercontent.com/100337867/155483212-13b3687f-1c18-474e-aafe-ba67a3c35b61.JPG)
+![DSC00480](https://user-images.githubusercontent.com/100337867/155483216-288efed5-7c9e-4488-aa7a-e1a66a89bc77.JPG)
+![DSC00484](https://user-images.githubusercontent.com/100337867/155483223-727945ab-9819-4104-971a-d1993d4465d2.JPG)
+![DSC00497](https://user-images.githubusercontent.com/100337867/155483228-fed731b4-2c58-4db8-845c-e178fbe047a8.JPG)
+![DSC00498](https://user-images.githubusercontent.com/100337867/155483233-42968cfa-1074-43d1-ad08-dcff061d9fdc.JPG)
+![DSC00505](https://user-images.githubusercontent.com/100337867/155483235-40d5e0e9-37c4-40c7-936e-6f62ca07d5a7.JPG)
+![DSC00510](https://user-images.githubusercontent.com/100337867/155483240-c05bb7cf-c1be-4e88-8e1d-cea20b8ba291.JPG)
+![DSC00519](https://user-images.githubusercontent.com/100337867/155483244-dcd31a64-b2b6-480c-a85f-d89f6a858ab8.JPG)
+![DSC00534](https://user-images.githubusercontent.com/100337867/155483247-9f96bf97-105e-4445-98ee-38a267241843.JPG)
+![DSC00542](https://user-images.githubusercontent.com/100337867/155483251-110cf267-e56d-4b12-8d60-c556d0ad9b5c.JPG)
+![DSC00543](https://user-images.githubusercontent.com/100337867/155483255-a29d915c-0134-4e68-b448-85637372b788.JPG)
+![DSC00545](https://user-images.githubusercontent.com/100337867/155483261-d0e5e995-3c5d-4163-90f2-30b9905d846d.JPG)
+![DSC00553](https://user-images.githubusercontent.com/100337867/155483269-d645b9d6-b47c-424b-9e6d-fb00aaf535fc.JPG)
+![DSC00557](https://user-images.githubusercontent.com/100337867/155483275-2ed2d2f1-0964-4810-a345-8ad841a35242.JPG)
+![DSC00558](https://user-images.githubusercontent.com/100337867/155483276-e5c17b02-31a6-413d-9fc7-e5b39ee70a70.JPG)
+![DSC00559](https://user-images.githubusercontent.com/100337867/155483281-8f087b72-395c-4bad-ac75-d180c8e3767f.JPG)
+![DSC00561](https://user-images.githubusercontent.com/100337867/155483284-67585b13-af24-4afb-b75b-9eb707253f09.JPG)
+![DSC00563](https://user-images.githubusercontent.com/100337867/155483286-563678c2-ec15-4063-9a6e-aa6180658a62.JPG)
+![DSC00577](https://user-images.githubusercontent.com/100337867/155483290-c33a5438-3947-49cd-bd42-62b2a5f67230.JPG)
+![DSC00580](https://user-images.githubusercontent.com/100337867/155483291-d33b559d-dfb7-4cc8-a9d5-d50d5da1232e.JPG)
+![DSC00583](https://user-images.githubusercontent.com/100337867/155483297-07bfd36e-057f-49f9-811d-b57ad4887eb9.JPG)
+![DSC00584](https://user-images.githubusercontent.com/100337867/155483300-4cddcad9-67ac-4c45-86dc-8eabe51df653.JPG)
+![DSC00606](https://user-images.githubusercontent.com/100337867/155483307-2cbfdb28-d0bc-465b-8218-a25f153b3322.JPG)
+![DSC00609](https://user-images.githubusercontent.com/100337867/155483314-a12c189b-5200-4a37-9188-92e9862fa923.JPG)
+![DSC00621](https://user-images.githubusercontent.com/100337867/155483316-2b696455-3e78-422d-9183-4b9124ee47bd.JPG)
+![DSC00629](https://user-images.githubusercontent.com/100337867/155483323-0b2ac1f7-d916-4f08-88a9-1b39370e10e1.JPG)
+![DSC00633](https://user-images.githubusercontent.com/100337867/155483328-fd1642aa-3bd7-4ab0-a0dc-a077c140cc5d.JPG)
+![DSC00637](https://user-images.githubusercontent.com/100337867/155483335-24202388-7ed9-489e-b633-3518072cadaa.JPG)
+![DSC00639](https://user-images.githubusercontent.com/100337867/155483341-767dcdc3-167a-46f9-9558-e56d2fd863d6.JPG)
+![DSC00644](https://user-images.githubusercontent.com/100337867/155483344-c2a36330-f719-4fd4-beab-dea027910036.JPG)
+![DSC00645](https://user-images.githubusercontent.com/100337867/155483349-b0cc8c7c-6231-49c0-8dab-7ec57e27d95b.JPG)
+![DSC00646](https://user-images.githubusercontent.com/100337867/155483356-0f04e400-ef77-4578-b857-d31eaf02e748.JPG)
+![DSC00651](https://user-images.githubusercontent.com/100337867/155483361-57a5d53e-bb92-487a-8345-3b346a881cc2.JPG)
+![DSC00660](https://user-images.githubusercontent.com/100337867/155483365-a86ec001-2af8-4fe2-8c8e-6eff86496864.JPG)
+![DSC00672](https://user-images.githubusercontent.com/100337867/155483374-847be00a-3a5e-479a-a4b8-838a3e2f828d.JPG)
+![DSC00676](https://user-images.githubusercontent.com/100337867/155483378-aa90d0fb-40d9-4f3c-a142-be80752d0bbd.JPG)
+![DSC00686](https://user-images.githubusercontent.com/100337867/155483382-01972f39-45cf-4946-a82a-e526c0512361.JPG)
+![DSC00693](https://user-images.githubusercontent.com/100337867/155483391-ba88d9a4-4caf-4dc9-b9b0-b25ceaccb6c6.JPG)
+![DSC00697](https://user-images.githubusercontent.com/100337867/155483394-b2f694ed-6b05-4198-8a81-548362f1719d.JPG)
+![DSC00703](https://user-images.githubusercontent.com/100337867/155483400-35a74365-e592-472e-9a2e-77e1134893de.JPG)
+![DSC00706](https://user-images.githubusercontent.com/100337867/155483405-f04fde33-adbc-4f8a-8ce5-76c3edbe6251.JPG)
+![DSC00738](https://user-images.githubusercontent.com/100337867/155483408-14ffcd57-9c9f-4d67-aac1-f2b368fd00a3.JPG)
+![DSC00740](https://user-images.githubusercontent.com/100337867/155483415-e825aeee-f073-451d-a8fe-56aa7c95e024.JPG)
+![DSC00752](https://user-images.githubusercontent.com/100337867/155483420-e0740510-090b-485f-9f24-9554134665e7.JPG)
+![DSC00753](https://user-images.githubusercontent.com/100337867/155483425-1aba0e1a-9302-4ca0-b62d-b5cac875cdd6.JPG)
+![DSC00756](https://user-images.githubusercontent.com/100337867/155483429-9b713024-31e6-49e6-b077-82be32008db3.JPG)
