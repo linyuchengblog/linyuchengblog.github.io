@@ -148,7 +148,7 @@
 ![DSC01507](https://user-images.githubusercontent.com/100337867/155498239-93d0af17-d199-406d-ab1c-052d592ae3a4.JPG)
 ![DSC01508](https://user-images.githubusercontent.com/100337867/155498244-33094fac-3969-432e-8702-0ab0b311acdf.JPG)
 #2014/8/24  Hong Kong
-![1](https://user-images.githubusercontent.com/100337867/155536643-ff249aaa-7490-4cb1-b4af-356bc5d05276.png)
+![HK](https://user-images.githubusercontent.com/100337867/155549668-81ea56f3-cde2-4cc4-8af8-d287c18dce5d.png)
 ![DSC01726](https://user-images.githubusercontent.com/100337867/155536650-194bbf0d-d3ff-4a8b-bbde-bfa19dc142bc.JPG)
 ![DSC01728](https://user-images.githubusercontent.com/100337867/155536656-8ca35e03-9fb8-45bc-8e7a-132ff0c99e71.JPG)
 ![DSC01731](https://user-images.githubusercontent.com/100337867/155536661-54ea502f-ffd6-463e-ab22-b093fc415a8f.JPG)
@@ -247,6 +247,7 @@
 ![DSC02208](https://user-images.githubusercontent.com/100337867/155536971-de45704d-b5bc-4c94-ab13-7b1fa867e44d.JPG)
 ![DSC02213](https://user-images.githubusercontent.com/100337867/155536978-18baa359-22f2-44e0-882a-f7f7d740558a.JPG)
 ![DSC02217](https://user-images.githubusercontent.com/100337867/155536980-dc323941-c9ac-4b2b-8e4c-c7d5ad55b816.JPG)
+
 
 
 
