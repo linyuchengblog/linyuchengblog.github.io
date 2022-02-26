@@ -483,7 +483,6 @@ Keep this blog page forever
 ![sz (2)](https://user-images.githubusercontent.com/100337867/155831769-cb64bdaa-13b8-48c1-8714-b62bb0fd6689.jpg)
 ![sz (3)](https://user-images.githubusercontent.com/100337867/155831770-4562c28f-3cde-4483-a3f6-a6203727350f.jpg)
 ![sz (4)](https://user-images.githubusercontent.com/100337867/155831771-965b5ced-416e-4ad5-b98f-6b8fd3adb709.jpg)
-![sz (5)](https://user-images.githubusercontent.com/100337867/155831772-b3da2a94-1c95-489d-8f21-a78a3803acd2.jpg)
 ![sz (6)](https://user-images.githubusercontent.com/100337867/155831773-0ca3b031-e448-4ba0-904a-f424e41fcbba.jpg)
 ![sz (7)](https://user-images.githubusercontent.com/100337867/155831776-b0b6d041-6203-4b58-9495-99bc3f4e6a84.jpg)
 ![sz (8)](https://user-images.githubusercontent.com/100337867/155831780-7a1e8789-d035-4944-8674-69bc476b7934.jpg)
