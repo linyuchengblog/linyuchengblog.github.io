@@ -159,7 +159,7 @@ Keep this blog page forever
 ![DSC01507](https://user-images.githubusercontent.com/100337867/155498239-93d0af17-d199-406d-ab1c-052d592ae3a4.JPG)
 ![DSC01508](https://user-images.githubusercontent.com/100337867/155498244-33094fac-3969-432e-8702-0ab0b311acdf.JPG)
 #2014/8/24  Hong Kong
-![HK](https://user-images.githubusercontent.com/100337867/155549668-81ea56f3-cde2-4cc4-8af8-d287c18dce5d.png)
+![HongKong](https://user-images.githubusercontent.com/100337867/155835951-e4705a2c-dc1b-4a37-b5fc-6ef78ded5f2a.png)
 ![DSC01726](https://user-images.githubusercontent.com/100337867/155536650-194bbf0d-d3ff-4a8b-bbde-bfa19dc142bc.JPG)
 ![DSC01728](https://user-images.githubusercontent.com/100337867/155536656-8ca35e03-9fb8-45bc-8e7a-132ff0c99e71.JPG)
 ![DSC01731](https://user-images.githubusercontent.com/100337867/155536661-54ea502f-ffd6-463e-ab22-b093fc415a8f.JPG)
