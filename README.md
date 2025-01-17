@@ -836,6 +836,9 @@ Keep this blog page forever
 ![DSC_2209 (复制)](https://github.com/linyuchengblog/linyuchengblog.github.io/assets/100337867/75759cad-87a3-45a4-b767-314529c83f65)
 ![DSC_2212 (复制)](https://github.com/linyuchengblog/linyuchengblog.github.io/assets/100337867/61bffb9c-bbd7-40b4-9c5d-0d16dd99a51f)
 ![DSC_2213 (复制)](https://github.com/linyuchengblog/linyuchengblog.github.io/assets/100337867/43b6ef3c-d319-45bd-ad55-24f43d1765b6)
+#2025/1/16 Taizhou Zhejiang
+![IMG_20250116_123205](https://github.com/user-attachments/assets/e9508c47-ff9d-405b-90b2-aff9afe84f36)
+![IMG_20250116_123213](https://github.com/user-attachments/assets/9e8681a6-fa14-4067-a014-09be6dc42660)
 #2008/4/3 Taizhou Zhejiang
 ![1](https://user-images.githubusercontent.com/100337867/155834936-31a22947-1464-4ca4-8e58-cde87d6e06ed.jpg)
 ![2](https://user-images.githubusercontent.com/100337867/155834943-a7230a25-cb0f-42ba-9991-8701ea3334fc.jpg)
